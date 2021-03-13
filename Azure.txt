@@ -1,0 +1,9 @@
+Grupo de Recursos
+- Contêiner que mantem os recursos relacionados para uma aplicação.
+- Posso incluri todos os recursos de uma aplicação
+
+Criar um Recurso
+
+Selecionar Banco de Dados
+> SQL Database
+> Azure Database for MySQL 
